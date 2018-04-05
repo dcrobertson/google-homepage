@@ -1,0 +1,88 @@
+#homepage {
+	font-family: Roboto, sans-serif;
+}
+
+
+.head {
+	float: left
+	text-align: center;
+	padding: 24px 24px 130px 14px;
+	word-spacing: 20px;
+	color: rgb(72,72,72);
+	font-size: 13px;
+}
+
+.head a {
+	color: rgb(72,72,72);
+	font-size: 13px;
+}
+
+.bottombar {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.footer {
+	float: right
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	word-spacing: 20px;
+	background-color: rgb(224,224,224);
+	font-size: 12px;
+	position: relative;
+	bottom: 0;
+}
+
+.footer a {
+	color: rgb(72,72,72);
+}
+
+.sign-in {
+	background-color: rgb(51, 153, 255);
+	color: white;
+	font-style: bold;
+	border: none;
+	border-radius: 2px;
+}
+
+.bar {
+	width: 560px;
+	height: 40px;
+	position: relative;
+	box-shadow: -20px rgba(0,0,0,0.75);;
+}
+
+.google-logo {
+	padding-bottom: 30px;
+}
+
+.search-bar {
+	float: center;
+	text-align: center;
+	padding: 24px 24px 14px 14px;
+}
+
+.button-bar {
+	float: center;
+	text-align: center;
+	padding: 24px 24px 14px 14px;
+	word-spacing: 20px;
+	font: rgb(72,72,72);
+
+}
+
+.search {
+	border: none;
+	border-radius: 2px;
+	background-color: rgb(232,232,232);
+	height: 36px;
+	line-height: 27px;	
+}
+
+.start-right {
+	float: right;
+}
+
+
+
