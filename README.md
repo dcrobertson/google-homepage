@@ -2,3 +2,6 @@ This is a mini project for the Odin Project. I am to create a mimic of the Googl
 
 
 Update: Decided to link, anyway.
+
+
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
